@@ -1,12 +1,4 @@
-## Hi there 👋
+## 통계학과 R을 유연하게 사용하고 공부하기 위한 스터디 레포 입니다.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+모든 결과물에 대한 저작권은 <b>Statistis-RStudy</b>에 있으며 <br/>
+소스 코드 추적을 통한 무단 배포 및 무단 유출 확인 시 합의 없는 엄격한 민, 형사상 고발 조치 진행하겠습니다.
